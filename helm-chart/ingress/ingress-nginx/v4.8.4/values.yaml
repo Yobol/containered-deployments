@@ -1,0 +1,6 @@
+controller:
+  image:
+    registry: k8s.dockerproxy.com
+  service:
+    externalIPs:
+    - <Host External IP>
